@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQLite temporary files
+*.db
+*.db-shm
+*.db-wal
+
