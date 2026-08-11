@@ -488,6 +488,8 @@ $RECYCLE.BIN/
 
 # SQLite temporary files
 *.db
+*.db-shm
+*.db-wal
 
 ## Ignore appsettings files
 API/appsettings.json
