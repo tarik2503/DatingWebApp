@@ -490,6 +490,8 @@ $RECYCLE.BIN/
 *.db
 dating.db-shm
 dating.db-wal
+*.db-shm
+*.db-wal
 
 ## Ignore appsettings files
 API/appsettings.json
